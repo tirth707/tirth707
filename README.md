@@ -68,19 +68,15 @@ I am a **Software Engineer** with a strong academic foundation in Information Te
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tirth707&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tirth707&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirth707&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="languages" />
-</div>
+</p>
 
-<br />
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tirth707&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
+</p>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth707&theme=tokyo-night&custom_title=Tirth%20Patel's%20Contribution%20Graph" width="100%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth707&theme=tokyo-night&custom_title=Tirth%20Patel" width="100%" />
+</p>
