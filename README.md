@@ -16,14 +16,6 @@
 
 <br />
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tirth707&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="tirth707 trophies" />
-  </a>
-</div>
-
-<br />
-
 ---
 
 ### 👨‍💻 Professional Summary
@@ -90,5 +82,5 @@ I am a **Software Engineer** with a strong academic foundation in Information Te
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth707&theme=tokyo-night" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth707&theme=tokyo-night&custom_title=Tirth%20Patel's%20Contribution%20Graph" width="100%" />
 </div>
