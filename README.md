@@ -16,6 +16,14 @@
 
 <br />
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tirth707&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="tirth707 trophies" />
+  </a>
+</div>
+
+<br />
+
 ---
 
 ### 👨‍💻 Professional Summary
@@ -69,6 +77,18 @@ I am a **Software Engineer** with a strong academic foundation in Information Te
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tirth707&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirth707&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="150" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tirth707&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirth707&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tirth707&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth707&theme=tokyo-night" width="100%" />
 </div>
