@@ -19,7 +19,7 @@
 ---
 
 ### 👨‍💻 Professional Summary
-I am a **Software Engineer** with a strong academic foundation in Information Technology, currently pursuing my **B.Tech (3rd Year)** after completing my **Diploma in IT**. Unlike self-taught developers, I have deep exposure to low-level programming, algorithmic efficiency, and enterprise system architecture.
+I am a **Aspiring Software Engineer** with a strong academic foundation in Information Technology, currently pursuing my **B.Tech (3rd Year)** after completing my **Diploma in IT**. Unlike self-taught developers, I have deep exposure to low-level programming, algorithmic efficiency, and enterprise system architecture.
 
 * 📱 **Cross-Platform:** Seamlessly integrating **React Native** mobile applications with **Node.js/Express** backends.
 * 🎓 **Harvard University:** CS50x Computer Science Student (In Progress).
