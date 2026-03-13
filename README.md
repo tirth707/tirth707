@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="[https://github-io-sand-eight.vercel.app](https://tirth-patel-portfolio-7.vercel.app)">
+  <a href="https://tirth-patel-portfolio-7.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/tirth-patel-04881325b">
